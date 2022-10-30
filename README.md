@@ -5,4 +5,5 @@ The App "Practice App for Dyslexic kids" , helps the kids to breakdown a word in
 help them practice the chunks by listening to it's phoneme. 
 
 ![image](https://user-images.githubusercontent.com/76613993/198863874-807fd9e5-dd0f-4dcf-b1e7-0205f3ba2470.png)
+![image](https://user-images.githubusercontent.com/76613993/198863917-bb1facfe-b048-4ceb-8eec-f399cffb051a.png)
 ![image](https://user-images.githubusercontent.com/76613993/198863880-3ea66172-f551-4669-bd50-08a394112624.png)
